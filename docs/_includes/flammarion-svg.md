@@ -1,4 +1,4 @@
-{% comment %}Flammarion SVG ver Dtd 11-20-19 {% endcomment %}
+{% comment %}Flammarion SVG ver Dtd 08-25-21 {% endcomment %}
 
 ## Flammarion SVG
 
@@ -12,7 +12,7 @@ Christopher Columbus knew of the value of understanding "the sphere" and put his
 
 The ancient Meso-Americans considered an eclipse to be a "bad omen" such that Columbus while shipwrecked used his knowledge of the occurrences of solar eclipses to extract concessions from the natives.
 
-**Note**. The last full eclipse of the sun across America pror to the year #2017 occurred in the year #1979 ...
+**Note**. The last full eclipse of the sun across America prior to the year #2017 occurred in the year #1979 ...
 
 Right before the ascent of Ronald Reagan's conservative #GOP movement and administration.
 
