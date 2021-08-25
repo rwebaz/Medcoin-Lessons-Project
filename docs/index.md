@@ -4,7 +4,7 @@ layout: default
 excerpt: Medcoin™ is your crypto currency of choice for all transactions medicinal and medical ...
 description_one: Issue, Rule, Analysis, Conclusion = IRAC
 repo: Medcoin-Lessons-Project
-ver_date: 08-24-21
+ver_date: 08-25-21
 navigation_weight: 1
 categories: page
 ---
@@ -23,5 +23,3 @@ In the sub-menu of the `Medcoin™` section you will find a hyperlink to the sou
 - [Medcoin™ Crypto Currency Project Source Links](https://mminail.github.io/Medcoin/Medcoin-Source-Links.htm){:title="Click to Visit the ™Medcoin Crypto Currency Project Source Links page of the ™Medcoin Crypto Currency Project at the Concept Library"}{:target="_blank"}
 
 {% include patreon-link.md %}
-
-![Medcoin™ Tangerine-Copper Logo Badge](../assets/img/svg/MMINAIL-Medcoin-Logo-Badge-Stitch-Circle-Trnsp-Tangerine-Copper-543-x-543.svg){:width="100px"}{:height="auto"}
