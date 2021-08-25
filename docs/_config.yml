@@ -1,6 +1,6 @@
 # Site settings
 # 
-# underscore Config dot yaml (_config.yml) template ver 11-11-2019
+# underscore Config dot yaml (_config.yml) template ver 08-25-21
 #
 # Un-comment the theme for the `docs` folder [only] in satellite repos
 theme: "jekyll-theme-cayman"
@@ -36,10 +36,10 @@ timezone: "America/Phoenix"
 exclude: ['README.md']
 #
 # The 'baseurl' is the subpath of your designated project, e.g. /Blank-Lessons-Project or /blog or simply "/"
-baseurl: "/Medcoin-Crypto-Currency-Project"
+baseurl: "/Medcoin-Lessons-Project"
 #
 # The 'url' is the parental web address of your designated project, e.g. /https://mminail.github.io
-url: "https://mminail.github.io"
+url: "https://rwebaz.github.io"
 #
 # The `source` tells the Jekyll engine where to locate the opening `index` file.
 # In this case, the `source` of the `index.md` is the `docs` folder of the repo.
